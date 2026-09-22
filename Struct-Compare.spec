@@ -14,7 +14,7 @@
 name:      perl-Struct-Compare
 summary:   Struct-Compare - Recursive diff for perl structures.
 version:   1.0.1
-release:   1
+release:   1%{?dist}
 vendor:    Ryan Davis <ryand-cmp@zenspider.com>
 packager:  Arix International <cpan2rpm@arix.com>
 license:   Artistic
